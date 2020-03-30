@@ -19,7 +19,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-
 }
 
 .register-container .content section {
@@ -28,8 +27,8 @@
 }
 
 .register-container .content section h1 {
-   margin: 64px 0 32px;
-   font-size: 32px;
+    margin: 64px 0 32px;
+    font-size: 32px;
 }
 
 .register-container .content section p {
@@ -46,7 +45,8 @@
 .register-container .content form input {
     margin-top: 8px;
 }
-.register-container .content form .input-group { 
+
+.register-container .content form .input-group {
     display: flex;
 }
 
